@@ -1,0 +1,49 @@
+100	iamafoodblog	http://iamafoodblog.com/
+100	Love & Lemons 	http://www.loveandlemons.com/
+100	The Vanilla Bean Blog	http://thevanillabeanblog.com/
+100	Bit By a Fox	http://bitbyafox.com/
+100	The Thirsty Wench	http://thethirstywench.com/
+100	Rose Water & Orange Blossoms	http://www.maureenabood.com/
+100	Feast: An Edible Road Trip	http://edibleroadtrip.com/
+100	Dinner: A Love Story	http://www.dinneralovestory.com/
+100	Local Milk	http://localmilkblog.com/
+100	5 Second Rule	http://5secondrule.typepad.com/
+100	My Darling Lemon Thyme	http://www.mydarlinglemonthyme.com/
+100	Broad Appetite	http://www.broadappetite.com/
+100	Poires au Chocolat	http://www.poiresauchocolat.net/
+100	My New Roots	http://www.mynewroots.org/site/
+100	Budget Bytes	http://www.budgetbytes.com/
+100	BrokeAss Gourmet	http://brokeassgourmet.com/
+100	Stone Soup	http://thestonesoup.com/blog/
+100	Not Eating Out In New York	http://noteatingoutinny.com/
+100	Well Plated By Erin	http://www.wellplated.com/
+100	The 99 Cent Chef 	http://the99centchef.blogspot.com/
+100	$5 Dinners	http://www.5dollardinners.com/
+100	Adventures In Cooking	http://www.adventures-in-cooking.com/
+100	Half Baked Harvest	http://www.halfbakedharvest.com/
+100	The Clever Carrot	http://www.theclevercarrot.com/
+100	The Earthen Table	http://theearthentable.com/
+100	The First Mess	http://www.thefirstmess.com/
+100	Hummingbird High 	http://www.hummingbirdhigh.com/
+100	In This Kitchen	http://www.inthiskitchen.com/
+100	Edible Perspective	http://www.edibleperspective.com/
+100	My Blue&White Kitchen	http://myblueandwhitekitchen.com/
+200	Fashionista	http://fashionista.com/
+200	Sneaker News	http://sneakernews.com/
+200	Nice Kicks	http://www.nicekicks.com/
+200	Camila Coelho 	http://camilacoelho.com/en/
+200	Garance Dore	http://www.garancedore.fr/
+200	Style Bubble	http://www.stylebubble.co.uk/
+200	Fashiontoast	http://fashiontoast.com/
+200	The Sartorialist 	http://www.thesartorialist.com/
+200	She Finds	http://www.shefinds.com/
+200	Who What Where	http://www.whowhatwear.com/
+200	Fashion Gone Rogue 	http://www.fashiongonerogue.com/
+200	Advanced Style	http://advancedstyle.blogspot.com/
+200	StyleList	http://www.stylelist.com/
+200	Sea of Shoes 	http://www.seaofshoes.com/
+200	College Fashion	http://www.collegefashion.net/
+200	Le Blog De Betty	http://www.leblogdebetty.com/en/
+200	Go Fug Yourself	http://www.gofugyourself.com/
+200	Sincerely Jules	http://sincerelyjules.com/
+200	Red Carpet Fashion Awards	http://www.redcarpet-fashionawards.com/
